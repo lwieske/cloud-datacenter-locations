@@ -1,0 +1,233 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+
+        {
+            "type": "Feature",
+            "properties": {
+                "desc": "Australia East - Sydney",
+                "name": "australiaeast",
+                "marker-symbol": "circle",
+                "marker-size": "medium",
+                "marker-color": "#00a1f1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [151.2094, -33.86]
+            }
+        },
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "desc": "Australia Southeast - Melbourne",
+                "name": "australiasoutheast",
+                "marker-symbol": "circle",
+                "marker-size": "medium",
+                "marker-color": "#00a1f1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [144.9631, -37.8136]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "desc": "Brazil South - São Paulo",
+                "name": "brazilsouth",
+                "marker-symbol": "circle",
+                "marker-size": "medium",
+                "marker-color": "#00a1f1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.633, -23.55]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "desc": "Central US - Iowa",
+                "name": "centralus",
+                "marker-symbol": "circle",
+                "marker-size": "medium",
+                "marker-color": "#00a1f1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-93.6208, 41.5908]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "desc": "East Asia - Hong Kong",
+                "name": "eastasia",
+                "marker-symbol": "circle",
+                "marker-size": "medium",
+                "marker-color": "#00a1f1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [114.188, 22.267]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "desc": "East US - Virginia",
+                "name": "eastus",
+                "marker-symbol": "circle",
+                "marker-size": "medium",
+                "marker-color": "#00a1f1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-79.8164, 37.3719]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "desc": "East US  2 - Virginia",
+                "name": "eastus2",
+                "marker-symbol": "circle",
+                "marker-size": "medium",
+                "marker-color": "#00a1f1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-78.3889, 36.6681]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "desc": "Japan East - Saitama",
+                "name": "japaneast",
+                "marker-symbol": "circle",
+                "marker-size": "medium",
+                "marker-color": "#00a1f1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.77, 35.68]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "desc": "Japan West - Osaka",
+                "name": "japanwest",
+                "marker-symbol": "circle",
+                "marker-size": "medium",
+                "marker-color": "#00a1f1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.5022, 34.6939]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "desc": "North Central US - Chicago",
+                "name": "northcentraluS",
+                "marker-symbol": "circle",
+                "marker-size": "medium",
+                "marker-color": "#00a1f1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.6278, 41.8819]
+            }
+        },
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "desc": "North Europe - Dublin",
+                "name": "northeurope",
+                "marker-symbol": "circle",
+                "marker-size": "medium",
+                "marker-color": "#00a1f1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.2597, 53.3478]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "desc": "South Central US - San Antonio",
+                "name": "southcentralus",
+                "marker-symbol": "circle",
+                "marker-size": "medium",
+                "marker-color": "#00a1f1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-98.5, 29.4167]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "desc": "Southeast Asia - Singapore",
+                "name": "southeastasia",
+                "marker-symbol": "circle",
+                "marker-size": "medium",
+                "marker-color": "#00a1f1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.833, 1.283]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "desc": "West Europe - Amsterdam",
+                "name": "westeurope",
+                "marker-symbol": "circle",
+                "marker-size": "medium",
+                "marker-color": "#00a1f1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.9, 52.3667]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "desc": "West US - California",
+                "name": "westus",
+                "marker-symbol": "circle",
+                "marker-size": "medium",
+                "marker-color": "#00a1f1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.417, 37.783]
+            }
+        }
+
+    ]
+}

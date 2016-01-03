@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Tokyo",
+        "name": "ap-northeast-1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.839478, 35.652832]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Singapore",
+        "name": "ap-southeast-1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.851959, 1.290270]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Sydney",
+        "name": "ap-southeast-2",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.215256, -33.856159]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Frankfurt",
+        "name": "eu-central-1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.682127, 50.110924]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Ireland",
+        "name": "eu-west-1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.243890, 53.412910]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "North Virginia",
+        "name": "us-east-1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.453077, 37.478397]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "North California",
+        "name": "us-west-1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.019300, 35.759573]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Oregon",
+        "name": "us-west-2",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.554201, 43.804133]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Sao Paolo",
+        "name": "sa-east-1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.633309, -23.550520]
+      }
+    }
+
+  ]
+}
