@@ -10,7 +10,7 @@ The geojson files get a special treatment in GitHub powered by MapBox - click on
 
 ### Google Cloud Platform
 
-[![](https://github.com/lwieske/cloud-datacenter-locations/blob/master/google.png)[https://github.com/lwieske/cloud-datacenter-locations/blob/master/google.geojson]
+![](https://github.com/lwieske/cloud-datacenter-locations/blob/master/google.png)[https://github.com/lwieske/cloud-datacenter-locations/blob/master/google.geojson]
 
 (Dec 2016 / http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
 
