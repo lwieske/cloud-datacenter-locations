@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Oregon",
+        "name": "us-west1-[a,b]",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.1786823, 45.5945645]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Iowa",
+        "name": "us-central1-[a,b,c,f]",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.8608333, 41.2619444]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "South Carolina",
+        "name": "us-east1-[b,c,d]",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.0087746, 33.1260618]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "South Carolina",
+        "name": "us-east1-c",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.0087746, 33.1260618]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Belgium",
+        "name": "europe-west1-[b,c,d]",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.818376, 50.449109]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Taiwan",
+        "name": "asia-east1-[a,b,c]",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.516135, 24.051796]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Japan",
+        "name": "asia-northeast1-[a,b,c]",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.691706, 35.689487]
+      }
+    }
+
+  ]
+}

@@ -20,6 +20,36 @@
     {
       "type": "Feature",
       "properties": {
+        "desc": "Seoul",
+        "name": "ap-northeast-2",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.977969, 37.566535]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Mumbai",
+        "name": "ap-south-1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.877656, 19.075984]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
         "desc": "Singapore",
         "name": "ap-southeast-1",
         "marker-symbol": "circle",
@@ -44,6 +74,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [151.215256, -33.856159]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Canada",
+        "name": "ca-central-1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.346771, 56.130366]
       }
     },
 
@@ -77,6 +122,22 @@
       }
     },
 
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "London",
+        "name": "eu-west-2",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.127758, 51.507351]
+      }
+    },
+
     {
       "type": "Feature",
       "properties": {
@@ -89,6 +150,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-76.453077, 37.478397]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Ohio",
+        "name": "us-east-2",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.907123, 40.417287]
       }
     },
 
