@@ -5,83 +5,8 @@
     {
       "type": "Feature",
       "properties": {
-        "desc": "Oregon",
-        "name": "us-west1-[a,b]",
-        "marker-symbol": "circle",
-        "marker-size": "medium",
-        "marker-color": "#db3236"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.1786823, 45.5945645]
-      }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
-        "desc": "Iowa",
-        "name": "us-central1-[a,b,c,f]",
-        "marker-symbol": "circle",
-        "marker-size": "medium",
-        "marker-color": "#db3236"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.8608333, 41.2619444]
-      }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
-        "desc": "South Carolina",
-        "name": "us-east1-[b,c,d]",
-        "marker-symbol": "circle",
-        "marker-size": "medium",
-        "marker-color": "#db3236"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.0087746, 33.1260618]
-      }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
-        "desc": "South Carolina",
-        "name": "us-east1-c",
-        "marker-symbol": "circle",
-        "marker-size": "medium",
-        "marker-color": "#db3236"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.0087746, 33.1260618]
-      }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
-        "desc": "Belgium",
-        "name": "europe-west1-[b,c,d]",
-        "marker-symbol": "circle",
-        "marker-size": "medium",
-        "marker-color": "#db3236"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [3.818376, 50.449109]
-      }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
         "desc": "Taiwan",
-        "name": "asia-east1-[a,b,c]",
+        "name": "asia-east1",
         "marker-symbol": "circle",
         "marker-size": "medium",
         "marker-color": "#db3236"
@@ -96,7 +21,7 @@
       "type": "Feature",
       "properties": {
         "desc": "Japan",
-        "name": "asia-northeast1-[a,b,c]",
+        "name": "asia-northeast1",
         "marker-symbol": "circle",
         "marker-size": "medium",
         "marker-color": "#db3236"
@@ -104,6 +29,231 @@
       "geometry": {
         "type": "Point",
         "coordinates": [139.691706, 35.689487]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Mumbai",
+        "name": "asia-south1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.877655, 19.075983]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Singapur",
+        "name": "asia-southeast1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.819839, 1.352083]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Sydney",
+        "name": "asia-southeast1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.209290, -33.868820]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Finnland",
+        "name": "europe-north1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.938379, 60.169857]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Belgium",
+        "name": "europe-west1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.818376, 50.449109]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "London",
+        "name": "europe-west2",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.127758, 51.507351]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Frankfurt",
+        "name": "europe-west3",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.682127, 50.110924]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Niederlande",
+        "name": "europe-west4",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.895168, 52.370216]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Iowa",
+        "name": "us-central1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.8608333, 41.2619444]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "South Carolina",
+        "name": "us-east1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.0087746, 33.1260618]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "North Virginia",
+        "name": "us-east4",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.420822, 37.442280]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Oregon",
+        "name": "us-west1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.039310, 44.939020]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Los Angeles",
+        "name": "us-west2",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.243683, 34.052235]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Montreal",
+        "name": "northamerica-northeast1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.567253, 45.501690]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "São Paulo",
+        "name": "southamerica-east1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#db3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.633308, -23.550520]
       }
     }
 

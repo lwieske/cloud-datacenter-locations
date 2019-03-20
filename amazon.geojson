@@ -35,6 +35,21 @@
     {
       "type": "Feature",
       "properties": {
+        "desc": "Osaka",
+        "name": "ap-northeast-3",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.5021656, 34.693738]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
         "desc": "Mumbai",
         "name": "ap-south-1",
         "marker-symbol": "circle",
@@ -103,6 +118,21 @@
       },
       "geometry": {
         "type": "Point",
+        "coordinates": [18.068580, 59.329323]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Stockholm",
+        "name": "eu-north-1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
         "coordinates": [8.682127, 50.110924]
       }
     },
@@ -122,7 +152,6 @@
       }
     },
 
-
     {
       "type": "Feature",
       "properties": {
@@ -135,6 +164,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-0.127758, 51.507351]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "desc": "Paris",
+        "name": "eu-west-3",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#ff9900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.352222, 48.856614]
       }
     },
 

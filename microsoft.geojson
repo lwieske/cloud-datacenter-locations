@@ -1,7 +1,6 @@
 {
   "type": "FeatureCollection",
   "features": [
-
     {
       "type": "Feature",
       "properties": {
@@ -13,10 +12,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [114.188, 22.267]
+        "coordinates": [
+          114.188,
+          22.267
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -28,10 +29,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [103.833, 1.283]
+        "coordinates": [
+          103.833,
+          1.283
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -43,10 +46,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-93.6208, 41.5908]
+        "coordinates": [
+          -93.6208,
+          41.5908
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -58,10 +63,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.8164, 37.3719]
+        "coordinates": [
+          -79.8164,
+          37.3719
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -73,10 +80,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.3889, 36.6681]
+        "coordinates": [
+          -78.3889,
+          36.6681
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -88,10 +97,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.417, 37.783]
+        "coordinates": [
+          -122.417,
+          37.783
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -103,10 +114,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-87.6278, 41.8819]
+        "coordinates": [
+          -87.6278,
+          41.8819
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -118,10 +131,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-98.5, 29.4167]
+        "coordinates": [
+          -98.5,
+          29.4167
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -133,10 +148,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-6.2597, 53.3478]
+        "coordinates": [
+          -6.2597,
+          53.3478
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -148,10 +165,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [4.9, 52.3667]
+        "coordinates": [
+          4.9,
+          52.3667
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -163,10 +182,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [135.5022, 34.6939]
+        "coordinates": [
+          135.5022,
+          34.6939
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -178,10 +199,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [139.77, 35.68]
+        "coordinates": [
+          139.77,
+          35.68
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -193,10 +216,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-46.633, -23.55]
+        "coordinates": [
+          -46.633,
+          -23.55
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -208,10 +233,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [151.2094, -33.86]
+        "coordinates": [
+          151.2094,
+          -33.86
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -223,10 +250,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [144.9631, -37.8136]
+        "coordinates": [
+          144.9631,
+          -37.8136
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -238,10 +267,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [80.1636, 12.9822]
+        "coordinates": [
+          80.1636,
+          12.9822
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -253,10 +284,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [73.9197, 18.5822]
+        "coordinates": [
+          73.9197,
+          18.5822
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -268,10 +301,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [72.868, 19.088]
+        "coordinates": [
+          72.868,
+          19.088
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -283,10 +318,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.383, 43.653]
+        "coordinates": [
+          -79.383,
+          43.653
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -298,10 +335,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.217, 46.817]
+        "coordinates": [
+          -71.217,
+          46.817
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -313,10 +352,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.799, 50.941]
+        "coordinates": [
+          -0.799,
+          50.941
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -328,10 +369,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.084, 53.427]
+        "coordinates": [
+          -3.084,
+          53.427
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -343,10 +386,12 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-110.234, 40.890]
+        "coordinates": [
+          -110.234,
+          40.89
+        ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -358,9 +403,215 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-119.852, 47.233]
+        "coordinates": [
+          -119.852,
+          47.233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "germanycentral",
+        "desc": "Germany Central",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#00a1f1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.683,
+          50.117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "germanywestcentral",
+        "desc": "Germany West Central",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#00a1f1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.975,
+          50.337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "germanynorth",
+        "desc": "Germany North",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#00a1f1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.622,
+          53.584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "germanynortheast",
+        "desc": "Germany Northeast",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#00a1f1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.616,
+          52.133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "chinaeast",
+        "desc": "China East",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#00a1f1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.474,
+          31.228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "chinanorth",
+        "desc": "China North",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#00a1f1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.383,
+          39.916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "southafricawest",
+        "desc": "South Africa West",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#00a1f1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.917,
+          -34.230
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "southafricanorth",
+        "desc": "South Africa North",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#00a1f1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.158,
+          -29.530
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "switzerlandnorth",
+        "desc": "Switzerland North",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#00a1f1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.541,
+          47.372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "switzerlandwest",
+        "desc": "Switzerland West",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#00a1f1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.151,
+          46.202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "norwayeast",
+        "desc": "Norway East",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#00a1f1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.982,
+          59.917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "norwaywest",
+        "desc": "Norway West",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#00a1f1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.445,
+          60.354
+        ]
       }
     }
-
   ]
 }
